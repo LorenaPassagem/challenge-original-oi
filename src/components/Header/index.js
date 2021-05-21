@@ -2,9 +2,6 @@ import styled from 'styled-components';
 
 const Header = styled.section`
     background-color: #ffffff;
-    position: absolute;
-    height: 60px;
-    width: 320px;
+    margin: 20px;
 `;
 export default Header;
-
