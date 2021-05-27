@@ -11,6 +11,7 @@ const Base = createGlobalStyle`
      --color-gray: #F2F2F2;
 
      --color-primary: #DE8F75;
+     --color-secundary-pink: #A9095E;     
  }
 `
 export default Base;
