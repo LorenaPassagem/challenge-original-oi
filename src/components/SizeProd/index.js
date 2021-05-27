@@ -11,7 +11,8 @@ const WrapSize = () => {
     <SizeNumber>32</SizeNumber>
     <SizeNumber>33</SizeNumber>
     <SizeNumber>34</SizeNumber>
-    <SizeNumber>35</SizeNumber><SizeNumber>36</SizeNumber>
+    <SizeNumber>35</SizeNumber>
+    <SizeNumber>36</SizeNumber>
   </>  
  )
 }

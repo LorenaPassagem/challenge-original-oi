@@ -14,8 +14,10 @@ export const GuideSize = styled.div`
 `;
 
 export const SizeNumber = styled.div`
-    width: 28px;
-    height: 28px;
+    width: 20px;
+    height: 20px;
     border-radius: 2px;
     border: 1px solid #EBEBEB;
+    display: inline-flex;
+    margin: 2px;
 `;
