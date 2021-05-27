@@ -13,4 +13,9 @@ export const GuideSize = styled.div`
     text-decoration:underline;
 `;
 
-export const SizeNumber = styled.div``;
+export const SizeNumber = styled.div`
+    width: 28px;
+    height: 28px;
+    border-radius: 2px;
+    border: 1px solid #EBEBEB;
+`;
