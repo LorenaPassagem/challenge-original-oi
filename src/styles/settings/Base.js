@@ -2,6 +2,8 @@ import { createGlobalStyle } from 'styled-components';
 
 const Base = createGlobalStyle`
  #root{
+     --color-star: #FFFFFF;
+
      --color-gray-dark: #686868;
      --color-gray-secundary: #7F7F7F;
      --color-gray-third :#ADADAD;
@@ -11,7 +13,10 @@ const Base = createGlobalStyle`
      --color-gray: #F2F2F2;
 
      --color-primary: #DE8F75;
-     --color-secundary-pink: #A9095E;     
+     --color-secundary-pink: #A9095E;
+     --color-action: #32917B;
+
+
  }
 `
 export default Base;
