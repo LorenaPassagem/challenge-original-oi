@@ -22,7 +22,7 @@ export const RecommentedShoes = styled.img.attrs({src:Prod2, alt:'sapato recomen
     width: 138px;
 `;
 
-export const Price = styled.p`
+export const Price = styled.figcaption`
     font-family: Montserrat;
     font-size:12px;
 `;

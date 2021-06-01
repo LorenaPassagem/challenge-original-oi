@@ -7,7 +7,7 @@ import ImgProd from './components/ImgProd';
 import LogoOriginal from './components/LogoOriginal'
 import Menu from './components/Menu';
 import { PagesNumer, Page } from './components/PagesNumber';
-import WrapRecommented, { Recommented } from './components/Recommented';
+import WrapRecommented from './components/Recommented';
 import WrapSize from './components/SizeProd'; 
 import {TitleProduct, Info} from './components/TitleProduct';
 import WrapColor from './components/WrapColor';
@@ -36,8 +36,8 @@ return (
     Possui sola sempre na cor do cabedal.
    </DescritionText>
    <WrapRecommented />
-   <PagesNumer/> <PagesNumer/>
-   <Page >1 de 2</Page>
+   <PagesNumer/><Page >1 de 2</Page> <PagesNumer/>
+   
 
    <Base />
   </> 

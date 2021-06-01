@@ -17,7 +17,7 @@ export const SizeNumber = styled.div`
     width: 20px;
     height: 20px;
     border-radius: 2px;
-    border: 1px solid #EBEBEB;
+    border: 1px solid var(--color-gray-fifty);
     display: inline-flex;
     margin: 2px;
 `;
