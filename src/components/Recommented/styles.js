@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import Prod1 from '../../img/prod01.png';
-import Prod2 from '../../img/prod02.png';
+import Prod1 from '../../Imagens/prod01.png';
+import Prod2 from '../../Imagens/prod02.png';
 
 export const Recommented = styled.h3`
     color: var(--color-primary);

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import Logo from '../../img/logo-original.png'
+import Logo from '../../Imagens/logo-original.png'
 
 const LogoOriginal = styled.img.attrs({src: Logo, alt:'logo original'})``
 
