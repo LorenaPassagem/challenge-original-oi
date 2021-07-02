@@ -2,7 +2,7 @@
   "name": "chalenge-original-io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lorenapassagem.github.io/challenge-original-oi",
+  "homepage": "http://lorenapassagem.github.io/challenge-original-oi",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
