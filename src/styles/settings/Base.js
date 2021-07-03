@@ -5,7 +5,7 @@ const Base = createGlobalStyle`
      --color-star: #FFFFFF;
 
      --color-gray-dark: #686868;
-     --color-gray-secundary: #7F7F7F;
+     --color-gray-secondary: #7F7F7F;
      --color-gray-third: #ADADAD;
      --color-gray-light: #CCCCCC;
      --color-gray-fourty: #E3E3E3;
@@ -14,7 +14,7 @@ const Base = createGlobalStyle`
      --color-gray: #F2F2F2;
 
      --color-primary: #DE8F75;
-     --color-secundary-pink: #A9095E;
+     --color-secundary: #A9095E;
      --color-action: #32917B;
 
  }

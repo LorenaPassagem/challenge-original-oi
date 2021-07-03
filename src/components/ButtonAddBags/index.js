@@ -10,5 +10,6 @@ const ButtonAddBags = styled.button`
     color: var(--color-star);
     border: none;
     margin-left: 52%;
+    cursor:pointer;
 `;
 export default ButtonAddBags;

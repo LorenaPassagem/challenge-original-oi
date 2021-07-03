@@ -4,9 +4,9 @@ import { Circles, LabelColor } from '../../Objects/Cor';
    const WrapColor = ({color}) => (
    <>     
      <LabelColor>Cor:</LabelColor>
-     <Circles />
-     <Circles />
-     <Circles />
+     <Circles color="secondary"/>
+     <Circles color="primary"/>
+     <Circles color="action"/>
      <Circles />
   </>   
 );

@@ -11,7 +11,7 @@ import Menu from './components/Menu';
 import { PagesNumer, Page } from './components/PagesNumber';
 import WrapRecommented from './components/Recommented';
 import WrapSize from './components/SizeProd'; 
-import {TitleProduct, Info} from './components/TitleProduct';
+import {Info} from './components/TitleProduct';
 import WrapColor from './components/WrapColor';
 import Base from './styles/settings/Base';
 import WrapIcon from './components/SocialMedia';
@@ -28,16 +28,15 @@ return (
      <LogoOriginal />         
      <IconSearch />
      <IconBag /> 
-   </Header>
+   </Header>   
    
-   <TitleProduct> Rasteira tira dedo</TitleProduct>
    <Info> RT 0568 | 03.07.0653 </Info>
    <ImgProd />
 
-   <WrapColor color />
+   <WrapColor />
    <WrapSize />
    <ButtonAddBags onClick={() => setModalVisible(true)}>Adicionar à sacola</ ButtonAddBags>
-    {ModalVisible ? <Modal />:null}
+    {ModalVisible ? <Modal /> :null}
     
    <DescritionTitle> Descrição </ DescritionTitle>
    <DescritionText>
@@ -45,7 +44,7 @@ return (
     Possui sola sempre na cor do cabedal.
    </DescritionText>
    <WrapRecommented />
-   <PagesNumer/><Page >1 de 2</Page> <PagesNumer/>   
+   <PagesNumer/><Page> 1 de 2</Page> <PagesNumer/>   
 
    <Institucional>institucional </Institucional>
    <Informaticoes>Informações</Informaticoes>

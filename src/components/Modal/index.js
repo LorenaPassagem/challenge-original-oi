@@ -1,9 +1,9 @@
 import React from 'react';
-import { TitleProduct } from '../TitleProduct';
+import { ModalStyle } from '../Modal/style';
 
-const Modal = () => (   
-    <TitleProduct>
+const Modal = () => (
+    <ModalStyle>
         Produto adicionado com sucesso!
-    </TitleProduct>
+    </ModalStyle>
 );
 export default Modal;
