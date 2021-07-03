@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.8efcd85c.chunk.js",
-    "main.js.map": "/static/js/main.8efcd85c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.55dbb3c7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.55dbb3c7.js.map",
-    "static/js/2.7efa8ebf.chunk.js": "/static/js/2.7efa8ebf.chunk.js",
-    "static/js/2.7efa8ebf.chunk.js.map": "/static/js/2.7efa8ebf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.7efa8ebf.chunk.js.LICENSE.txt": "/static/js/2.7efa8ebf.chunk.js.LICENSE.txt",
-    "static/media/icon-menu.26a8d092.svg": "/static/media/icon-menu.26a8d092.svg",
-    "static/media/prod01.99c9dabc.png": "/static/media/prod01.99c9dabc.png",
-    "static/media/prod02.15b6cabc.png": "/static/media/prod02.15b6cabc.png"
+    "main.js": "/challenge-original-oi/static/js/main.cfe921dc.chunk.js",
+    "main.js.map": "/challenge-original-oi/static/js/main.cfe921dc.chunk.js.map",
+    "runtime-main.js": "/challenge-original-oi/static/js/runtime-main.020f00f1.js",
+    "runtime-main.js.map": "/challenge-original-oi/static/js/runtime-main.020f00f1.js.map",
+    "static/js/2.ccfe104a.chunk.js": "/challenge-original-oi/static/js/2.ccfe104a.chunk.js",
+    "static/js/2.ccfe104a.chunk.js.map": "/challenge-original-oi/static/js/2.ccfe104a.chunk.js.map",
+    "index.html": "/challenge-original-oi/index.html",
+    "static/js/2.ccfe104a.chunk.js.LICENSE.txt": "/challenge-original-oi/static/js/2.ccfe104a.chunk.js.LICENSE.txt",
+    "static/media/icon-menu.26a8d092.svg": "/challenge-original-oi/static/media/icon-menu.26a8d092.svg",
+    "static/media/prod01.99c9dabc.png": "/challenge-original-oi/static/media/prod01.99c9dabc.png",
+    "static/media/prod02.15b6cabc.png": "/challenge-original-oi/static/media/prod02.15b6cabc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.55dbb3c7.js",
-    "static/js/2.7efa8ebf.chunk.js",
-    "static/js/main.8efcd85c.chunk.js"
+    "static/js/runtime-main.020f00f1.js",
+    "static/js/2.ccfe104a.chunk.js",
+    "static/js/main.cfe921dc.chunk.js"
   ]
 }
